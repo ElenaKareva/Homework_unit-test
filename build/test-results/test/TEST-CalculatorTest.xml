@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-01-06T11:20:25" hostname="PC" time="0.076">
+  <properties/>
+  <testcase name="РџСЂРѕРІРµСЂРєР° С‚РµРєСЃС‚Р° РёСЃРєР»СЋС‡РµРЅРёСЏ РїСЂРё РґРµР»РµРЅРёРё РЅР° 0" classname="CalculatorTest" time="0.042"/>
+  <testcase name="РџСЂРѕРІРµСЂРєР°  РґРµР»РµРЅРёСЏ" classname="CalculatorTest" time="0.002"/>
+  <testcase name="РџСЂРѕРІРµСЂРєР°  РїРѕР»РѕР¶РёС‚РµР»СЊРЅРѕРіРѕ С‡РёСЃР»Р°" classname="CalculatorTest" time="0.002"/>
+  <testcase name="РџСЂРѕРІРµСЂРєР° РјРѕРґСѓР»СЏ С‡РёСЃР»Р°" classname="CalculatorTest" time="0.004"/>
+  <testcase name="РџСЂРѕРІРµСЂРєР° РІРѕР·РІРµРґРµРЅРёСЏ С‡РёСЃР»Р° РІ РєРІР°РґСЂР°С‚" classname="CalculatorTest" time="0.005"/>
+  <testcase name="РџСЂРѕРІРµСЂРєР° СЃР»РѕР¶РµРЅРёСЏ" classname="CalculatorTest" time="0.003"/>
+  <testcase name="РџСЂРѕРІРµСЂРєР°  РІС‹С‡РёС‚Р°РЅРёСЏ" classname="CalculatorTest" time="0.002"/>
+  <testcase name="РџСЂРѕРІРµСЂРєР° РґРµР»РµРЅРёСЏ РЅР° 0" classname="CalculatorTest" time="0.005"/>
+  <testcase name="РџСЂРѕРІРµСЂРєР°  СѓРјРЅРѕР¶РµРЅРёСЏ" classname="CalculatorTest" time="0.002"/>
+  <system-out><![CDATA[tests started
+test started
+test completed
+test started
+test completed
+test started
+test completed
+test started
+test completed
+test started
+test completed
+test started
+test completed
+test started
+test completed
+test started
+test completed
+test started
+test completed
+tests completed
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
